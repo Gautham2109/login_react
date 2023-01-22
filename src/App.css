@@ -1,0 +1,22 @@
+.form-control{
+  width: 350px;
+  text-align: center;
+  
+}
+
+h1{
+  text-align: center;
+  
+}
+
+body{
+  text-align: center;
+}
+.edge{
+display: inline;
+  position: absolute;
+  top: 10%;
+  left: 40%;
+  background-color: rgb(98, 178, 249);
+}
+
